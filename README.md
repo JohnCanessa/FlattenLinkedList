@@ -13,7 +13,7 @@ the actual code take the time to implement your own solution.
 The associated post for this problem may be found in my blog
 at the following link:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/11/flatten-a-linked-list-in-java/
 
 Keep in mind that the best way to learn is to read and experiement.
 
